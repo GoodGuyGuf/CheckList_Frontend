@@ -2,7 +2,7 @@
 
 CheckList is a simple single page application that lets a user create, edit or delete checklists.
 
-This repo includes the code for the frontend of the application.
+This repo includes the code for the frontend of the application. If you would like to visit the backend repo, you can find it here: https://github.com/GoodGuyGuf/CheckList_Backend
 
 ## This application was built with:
 
