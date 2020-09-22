@@ -13,7 +13,8 @@ This repo includes the code for the frontend of the application. If you would li
 If you would like to run this application, you will have to:
 
 1. `cd` into the checklist-frontend directory
-8. Run `open index.html`
+2. Run `npm install`
+3. Run `npm start`
 
 # Development
 This application is in development as of September 2020
